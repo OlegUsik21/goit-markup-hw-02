@@ -85,7 +85,7 @@ ol {
   line-height: 1.07;
   letter-spacing: 1.12px;
   text-align: center;
-  color: #2e2f42;
+  color: #fff;
 }
 .main-botton {
   background-color: #404bbf;
@@ -129,7 +129,7 @@ ol {
   background-color: #f4f4fd;
 }
 .team-members {
-  color: inherit;
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -137,7 +137,7 @@ ol {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .team-item {
 }
@@ -160,7 +160,7 @@ ol {
 }
 /* Portfolio section */
 .portfolio {
-  background-color: #f4f4fd;
+  background-color: #fff;
 }
 .portfolio-title {
   color: #2e2f42;
@@ -186,9 +186,10 @@ ol {
   letter-spacing: 0.02em;
 }
 .portfolio-text {
-  color: #434455;
+  text-align: center;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* Footer section */
