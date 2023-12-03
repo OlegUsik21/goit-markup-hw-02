@@ -1,6 +1,7 @@
 /* Body styles */
 Body {
   font-family: Roboto, sans-serif;
+  color: #434455;
   color: #2e2f42;
   background-color: #fff;
 }
@@ -18,11 +19,12 @@ ol {
 .header-nav {
 }
 .header-link-logo {
+  font-family: "Raleway", sans-serif;
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -60,7 +62,7 @@ ol {
 .address-item {
 }
 .address-link {
-  color: #434455;
+  color: inherit;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -83,6 +85,9 @@ ol {
   color: #fff;
 }
 .main-botton {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   cursor: pointer;
   color: #fff;
   background-color: #4d5ae5;
@@ -108,7 +113,7 @@ ol {
   letter-spacing: 0.02em;
 }
 .cualities-text {
-  color: #434455;
+  color: inherit;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -140,7 +145,7 @@ ol {
   letter-spacing: 0.02em;
 }
 .team-text {
-  color: #434455;
+  color: inherit;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -172,7 +177,7 @@ ol {
   letter-spacing: 0.02em;
 }
 .portfolio-text {
-  color: #434455;
+  color: inherit;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
