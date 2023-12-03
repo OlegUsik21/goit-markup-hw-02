@@ -29,6 +29,9 @@ ol {
 .header-link-logo:focus {
   color: #404bbf;
 }
+.link-header:active{
+color:#404bbf;
+}
 .header-botton {
   font-family: Raleway, sans-serif;
   color: #2e2f42;
