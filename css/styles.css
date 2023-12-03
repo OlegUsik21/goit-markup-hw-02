@@ -49,6 +49,7 @@ ol {
   color: #404bbf;
 }
 .header-list {
+  color: #2e2f42;
 }
 .header-item {
 }
@@ -57,6 +58,7 @@ ol {
 .headet-item {
 }
 .address {
+  font-style: normal;
 }
 .address-list {
 }
@@ -83,10 +85,10 @@ ol {
   line-height: 1.07;
   letter-spacing: 1.12px;
   text-align: center;
-  color: #fff;
+  color:#2e2f42;
 }
 .main-botton {
-  background-color:  #404BBF;
+  background-color: #404bbf;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -98,9 +100,12 @@ ol {
   color: #fff;
   background-color: #404bbf;
 }
+.main-botton:focus {
+  background-color: #404bbf;
+}
 /* Section cualities */
 .cualities {
-  background-color: inherit;
+  background-color:  #FFFFFF;
 }
 .cualities-list {
 }
@@ -173,7 +178,7 @@ ol {
 .portfolio-img {
 }
 .portfolio-name {
-  color: #434455;
+  color:  #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
