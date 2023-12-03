@@ -160,7 +160,7 @@ ol {
 }
 /* Portfolio section */
 .portfolio {
-  background-color: #fff;
+  background-color:#F4F4FD;
 }
 .portfolio-title {
   color: #2e2f42;
@@ -178,7 +178,7 @@ ol {
 .portfolio-img {
 }
 .portfolio-name {
-  color:  #2e2f42;
+  color:inherit;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
