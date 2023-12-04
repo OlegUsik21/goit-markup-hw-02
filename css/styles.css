@@ -19,7 +19,7 @@ ol {
 }
 .header-link-logo {
   font-family: "Raleway", sans-serif;
-  color: #4d5ae5;
+  color: #404bbf;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -93,7 +93,6 @@ ol {
   letter-spacing: 0.04em;
   cursor: pointer;
   color: #fff;
-  background-color: #4d5ae5;
 }
 .main-botton:hover {
   color: #fff;
@@ -137,7 +136,7 @@ ol {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-item {
 }
