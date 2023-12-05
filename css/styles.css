@@ -52,6 +52,10 @@ ol {
 .header-list {
   color: #2e2f42;
 }
+.header-link-logo,
+.header-botton {
+  text-decoration: none;
+}
 .header-item {
 }
 .headet-link {
@@ -219,4 +223,8 @@ ol {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.footer-link,
+.footer-botton {
+  text-decoration: none;
 }
